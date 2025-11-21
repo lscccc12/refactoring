@@ -1,3 +1,4 @@
+f149ee5 Task 2.3: Extract use method
 199da72 Task 2.2: Extract getVolumeCredits method
 7a29229 Task 2.1: Extract methods
 c085c0b Task 1.2: updating log.txt
