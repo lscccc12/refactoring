@@ -1,3 +1,4 @@
+4bc5828 Task 2.4: Extract getTotalAmount and getTotalVolumeCredits methods
 f149ee5 Task 2.3: Extract use method
 199da72 Task 2.2: Extract getVolumeCredits method
 7a29229 Task 2.1: Extract methods
